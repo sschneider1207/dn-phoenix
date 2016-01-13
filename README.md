@@ -61,5 +61,3 @@ an example i used to test (C# 6)
     {
       Console.WriteLine($"{kind} - {msg}");
     }
-# dn-phoenix
-.net(dotnet) client for the Elixir @phoenixframework
