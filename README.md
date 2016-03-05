@@ -5,8 +5,8 @@ the intention is to follow the js api and c#ly as possible
 
 ### dependencies
 
-- newtonsoft.json (8.0.1)
-- websocket-sharp (1.0.3-rc10 prerelease)
+- newtonsoft.json (7.0.1)
+- Websocket4Net (0.14)
 
 #
 an example i used to test (C# 6)
